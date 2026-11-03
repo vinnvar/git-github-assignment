@@ -1,0 +1,1 @@
+Git is somewhere to store your programming projects.Github is somewhere where you can share and work on your git code with others. Github has a nice management tool where you can work thro. Github is where you can create, store, manage, and share code.
